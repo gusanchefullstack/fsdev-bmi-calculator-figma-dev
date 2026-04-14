@@ -1,0 +1,68 @@
+/* Design tokens — Frontend Mentor BMI Calculator style guide */
+:root {
+  /* Colors */
+  --color-gunmetal: #253347;
+  --color-dark-electric-blue: #5E6E85;
+  --color-blue: #345FF6;
+  --color-borders: #D8E2E7;
+  --color-white: #FFFFFF;
+  --color-pure-white: #FFFFFF;
+
+  /* Gradients */
+  --gradient-bg: linear-gradient(290deg, #D6E6FE 0%, rgba(214, 252, 254, 0) 100%);
+  --gradient-card: linear-gradient(90deg, #345FF6 0%, #587DFF 100%);
+
+  /* Typography */
+  --font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+
+  /* Type scale (heading-l/m/s, body-m/s) */
+  --fs-heading-xl: 4rem;     /* 64px */
+  --lh-heading-xl: 110%;
+  --ls-heading-xl: -0.05em;
+
+  --fs-heading-l: 3rem;      /* 48px */
+  --lh-heading-l: 110%;
+  --ls-heading-l: -0.05em;
+
+  --fs-heading-m: 2rem;      /* 32px */
+  --lh-heading-m: 110%;
+  --ls-heading-m: -0.05em;
+
+  --fs-heading-s: 1.5rem;    /* 24px */
+  --lh-heading-s: 110%;
+  --ls-heading-s: -0.05em;
+
+  --fs-body-m: 1rem;         /* 16px */
+  --lh-body-m: 150%;
+  --ls-body-m: 0;
+
+  --fs-body-s: 0.875rem;     /* 14px */
+  --lh-body-s: 150%;
+  --ls-body-s: 0;
+
+  --fw-regular: 400;
+  --fw-semibold: 600;
+
+  /* Spacing scale (8pt) */
+  --space-100: 0.5rem;  /* 8 */
+  --space-150: 0.75rem; /* 12 */
+  --space-200: 1rem;    /* 16 */
+  --space-300: 1.5rem;  /* 24 */
+  --space-400: 2rem;    /* 32 */
+  --space-500: 2.5rem;  /* 40 */
+  --space-600: 3rem;    /* 48 */
+  --space-800: 4rem;    /* 64 */
+  --space-1000: 6rem;   /* 96 */
+  --space-1200: 7.5rem; /* 120 */
+
+  /* Radius */
+  --radius-sm: 12px;
+  --radius-md: 16px;
+  --radius-lg: 999px;
+
+  /* Shadow */
+  --shadow-card: 16px 32px 56px rgba(143, 174, 207, 0.25);
+
+  /* Layout */
+  --container-max: 1110px;
+}

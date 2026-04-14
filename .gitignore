@@ -1,0 +1,11 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+.env.*
+
+# Figma design files (do NOT commit)
+figma-design/
+*.fig
+preview.jpg
