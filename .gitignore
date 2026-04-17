@@ -9,3 +9,4 @@ dist
 figma-design/
 *.fig
 preview.jpg
+.vercel
